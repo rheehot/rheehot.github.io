@@ -16,3 +16,30 @@
    lluillui.com
    fullstock.com
    sports card mall (beta)
+
+# Experience template
+- layout: left
+  company: 패션고코리아 (Fashiongo Korea, NHN Global Korea)
+  link: fashiongo.net
+  job_title: CTO 
+  dates: Feb 2015 - March 2018
+  quote: >
+   패션 기반 E-commerce B2B B2C 개발실 팀장(기획, 분석, 디자인, 개발, 운영 총괄)
+  description: | # this will include new lines to allow paragraphs
+   프론트 백엔드 모바일 주문/배송/Checkout/고객센터 구축 기획/개발/운영 PM 수행
+   이커머스 프론트 사이트 UI/UX 기획 총괄 (회원, 상품, 주문, 배송, 취소반품교환, CS, 검색, 타 시스템 연동 API)
+   - 이머커스 타겟 계층에 따른 전략기획 및 일정,리소스 체크
+   - 해외배송 관련 관세 및 배송비 프로세스
+
+   개발환경(기술적용부분)
+   - H/W & DBMS: ms-sql, mysql, postgresql, oracle, Linux, Windows
+   - Language: java spring 5.X maven hibernate 3.X, node.js, angular, ionic2,
+   - Tool: github / Jenkins / AWS / eclipse / atom / visual studio/ Intellij
+   - AWS
+
+   [수행실적]
+   - 프론트/ 백오피스/ 모바일 앱 시스템 구축 프로젝트 진행/운영 중 (2015.02 - 현재)
+   : 미국 본사 기획/디자인/개발자/운영자들과 co-worker 하면서 기획/설계/개발/운영 PM 수행
+   B2B B2C ecommerce site , O2O service , transport system (of LA)
+   글로벌 물류 창고 시스템 및 이커머스 사이트 연계 시스템 개발 및 운영 (Front, Backend, API, Batch, ETL etc) 중임
+
