@@ -1,9 +1,12 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: 동국대학교 (서울)
+  dates: 1990 - 1996
+  qualification: 산업공학과 (공학 석사)
   quote: >
-    Short institution or course description (optional)
+    Y2K 인증 센타 발행 Y2K 인증심사원 자격 有
+    OCP-DBA 8i
+    PMP (Project Management Institute)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    공동 저자 - 품질 및 신뢰성 Ⅱ ; 공정의 이상유무를 진단하기 위한 최적 SOM ( Self - Organization Map ) 설계 (1994, 대한산업공학회 추계학술대회논문집
+

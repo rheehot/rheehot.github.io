@@ -1,10 +1,39 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Uvaper Korea
+  link: uvaper.com 
+  job_title: CTO 
+  dates: June 2018 - present
   quote: >
-   Short description of the company (optional)
+   Uvaper 개발 총괄 
+   Uavaper Korea 서울 지점 지점장
   description: | # this will include new lines to allow paragraphs
-    Description of role
+   
+Uvaper 이커머스 사이트 전략기획, 개발, 운영 총괄
+이커머스 물류 , 온오프라인 샵 연동 개발 운영 총괄
+코스메틱 사업 전략기획
+
+uvaper.com
+vapenw.com
+lluillui.com
+fullstock.com
+카드몰 (알파 오픈)
+
+  company: 패션고코리아 (Fashiongo Korea, NHN Global Korea)
+  link: uvaper.com 
+  job_title: CTO 
+  dates: June 2018 - present
+  quote: >
+   Uvaper 개발 총괄 
+   Uavaper Korea 서울 지점 지점장
+  description: | # this will include new lines to allow paragraphs
+   
+Uvaper 이커머스 사이트 전략기획, 개발, 운영 총괄
+이커머스 물류 , 온오프라인 샵 연동 개발 운영 총괄
+코스메틱 사업 전략기획
+
+uvaper.com
+vapenw.com
+lluillui.com
+fullstock.com
+카드몰 (알파 오픈)
