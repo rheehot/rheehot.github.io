@@ -19,8 +19,8 @@
 
 # Experience template
 - layout: left
-  company: 패션고코리아 (Fashiongo Korea, NHN Global Korea)
-  link: fashiongo.net
+  company: Fashiongo Korea, NHN Global
+  link: fashiongo.net 
   job_title: CTO 
   dates: Feb 2015 - March 2018
   quote: >
@@ -43,3 +43,145 @@
    B2B B2C ecommerce site , O2O service , transport system (of LA)
    글로벌 물류 창고 시스템 및 이커머스 사이트 연계 시스템 개발 및 운영 (Front, Backend, API, Batch, ETL etc) 중임
 
+# Experience template
+- layout: left
+  company: 위메프(Wemakeprice)
+  link: wemakeprice.com
+  job_title: 배송물류 유닛장
+  dates: May 2014 - Sept 2014
+  quote: >
+   소셜 커머스 배송/물류시스템 및 물류시스템 연동 시스템 구축 운영 PM 수행
+  description: | # this will include new lines to allow paragraphs
+   배송-물류/고객센터 구축 전략 수립 및 기획/개발/운영 리딩
+   개발환경(기술적용부분)
+   - H/W & DBMS: Oracle 11g, Linux, Unix, Windows
+   - Language: php
+   - Tool: git / Eclipse
+
+   [수행실적]
+   - 실시간 배송리스트 출력시스템 (2013.05 - 2013.8)
+   : 배송내역에 대한 배송리스트 출력 시스템 기획/구축/운영 PM
+   -물류센터 배송 시스템간 연동 시스템 구축 리딩(2013.08 - 2013.11)
+   -SAP(PI) 연계 시스템 기획/개발 리딩
+
+# Experience template
+- layout: left
+  company: 이마트(emart) 
+  link: SSG.COM
+  job_title: SSG.COM Project Manager
+  dates: Nov 2012 - May 2014
+  quote: >
+   상품/Seller관리/배송-물류/고객센터 구축 전략 수립 및 기획/개발/운영 PM
+  description: | 
+   담당: 상품/Seller관리/배송-물류/고객센터 구축 전략 수립 및 기획/개발/운영 PM
+
+   [수행실적]
+
+   - 이마트몰 상품관리/배송/물류시스템 구축 (2013.02 - 2013.12)
+   : 물류시스템 백오피스 및 배송관리시스템 기획/구축/운영 PM
+   백화점 상품, 이마트 상품에 대한 재고통합, Seller 시스템 구축의 컨셉 기획
+   개발팀 소싱 및 구축, 운영 PM
+
+   - 이마트몰 배송관리시스템(TMS) 구축 (2013.02 - 2013.10)
+   : 구매 상품 배송을 위한 배송기사 배송루트 생성 및 관재 시스템 구축
+   : 기획, 분석, 설계, 코딩, QA, PM
+
+   - 이마트몰/신세계몰 고객센터 관리 시스템 구축 (2013.02 - 2013.12)
+   : 고객센터 백오피스 기획/구축/운영 PM
+
+   - 이마트몰 자동화물류센터 (보정동 소재) (2012.12 - 2014.04)
+   : 물류센터 설비 및 WCS 구축 업체 선정 및 기획/초기layout 참여
+   : 물류센터 운영을 위한 WMS 구축 업체 선정/요건정리/기획/설계/개발 PM
+   : ECMS(이마트 센터관리시스템, 이마트몰 기간계(상품,재고,관리 등) 시스템) : 요건 분석/기획/설계/개발 PM
+
+# Experience template
+- layout: left
+  company: 이베이코리아-G마켓
+  link: gmarket.co.kr
+  job_title: Developer Team Manager
+  dates: Sept 2003 - Oct 2012
+  quote: >
+   인터넷 쇼핑몰 구축, 판매자 샵 싸이트 구축, 광고시스템 구축, 해외 오픈마켓 구축/운영 개발팀 팀장
+  description: | 
+   개요: Ineternet ShoppingMall AdminTool analysis/design/develop
+   담당: Goods display, Seller Shop, Auction, Best Shop Web develop/Team Leader
+
+   개발환경(기술적용부분)
+   - H/W & DBMS: MS-SQL, Windows
+   - Language: asp 2.0, asp.net 3.5, Stored procedure, C#, Java
+   - Tool: Visual Studio, editplus, Gsql, gftp
+   
+   [수행실적]
+
+   - 판매자 셀러 시스템 구축 (2010.01 - 2011.01)
+   : 판매자 자체 상품 싸이트 생성 시스템
+
+   - 일반 광고 시스템 구축 (2011.01 - 2011.06)
+   : 일반 광고주를 위한 배너/검색광고 시스템
+   : 분석, 설계, 코딩, QA
+
+   - 지마켓 메인,대/중/소 시스템 전면 개편 (2011.05 ~ 2011.12)
+   : 닷넷 시스템으로 싸이트 재구축
+   : 분석, 설계, 코딩, QA
+
+   - 광고 어드민 시스템 구축 (2012.01~04)
+   : J2EE / Hibernate / Weblogic / JUnit / Eclipse 사용해서 시스템 구축, 운영
+   : 시스템 설계에 참여(파일렛 시스템)
+
+   - 가격비교 상품정보 분석 분산시스템 개발 (2011.11 ~ 2012.04)
+   : Hadoop, mangoDB 사용해서 시스템 구축, 운영, 파일럿 시스템으로 개발
+   : 팀 리더로서 진행 참여
+
+   - 옥션 마트온 시스템 개발 (2012.01 ~ 2012.06)
+   : MangoDB, .Ent c# 시스템으로 외부 물류 시스템과 연동시스템 구축, 배송시스템 재구축
+   : 파트 리더, 요건분석/기획/설계/코딩 개발 참여 및 리딩
+
+   - 인터넷 쇼핑몰 전영역의 시스템 설계/개발/운영 수행
+   : 상품 등록/수정/주문/결제/배송/취소/반품/교환/콜센터/정산 업무 수행
+   - 웹 싸이트 운영
+   2004.01 - 2005.01 : 전사 싸이트 신규 개발 및 런칭 작업 수행
+   - 인터넷 광고 시스템
+   2005.01 - 2008.12 : 포털 판매자 광고/배너광고/검색광고 시스템 설계/개발/운영
+   - 후원 싸이트 개발
+   2008.01 - 2008.12 : 판매자후원싸이트 구축 및 Backend 구축
+   - 판매자 관리 시스템
+   2009.01 - 2009.06 : 판매자 미니샵 자동생성 싸이트 설계/개발/운영
+
+   - 해외 싸이트 구축 : 시스템 설계/개발/운영
+   2004.05- 2004.09 : 우체국 택배 EMS을 이용한 해외배송 서비스 구축
+   2004.10 - 2005.07 : 외국인 전용 싸이트 구축 global.gmarket.co.kr
+   2008.01- 2008.12 : 일본 싸이트 구축 : www.gmarket.co.jp
+
+#Experience template
+- layout: left
+  company: 부뜰정보시스템
+  link: buttle.co.kr
+  job_title: Developer Team Manager
+  dates: Sept 2002 - Nov 2003
+  quote: >
+   외환카드, 현대카드 손해보험 텔레마케팅 시스템 구축 PM
+  description: | 
+   외환카드, 현대카드 손해보험 텔레마케팅 시스템 구축 
+
+#Experience template
+- layout: left
+  company: 맥스무비
+  link: maxmovie.com
+  job_title: Developer Team Manager
+  dates: Nov 1999 - Nov 2002
+  quote: >
+   영화예매 웹 사이트 기획, 개발, 서버관리, 운영 총괄 (개발팀장)
+  description: | 
+   영화예매 웹 사이트 기획, 개발, 서버관리, 운영 총괄 (개발팀장)
+
+#Experience template
+- layout: left
+  company: 동양systemhouse
+  link: tongyangshl.com
+  job_title: Developer 
+  dates: Jan 1906 - Nov 1999
+  quote: >
+   회계, 인사, 금융 시스템 개발/유지보수 프로그래머
+  description: | 
+   회계, 인사, 금융 시스템 개발/유지보수 프로그래머 
+   : 한국타이어, 체신청, 동양생명, 사내 시스템

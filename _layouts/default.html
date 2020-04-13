@@ -16,9 +16,9 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.projects.size > 0 -%}
+      {% comment %} {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
-      {%- endif -%}
+      {%- endif -%} {% endcomment %}
 
       {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
