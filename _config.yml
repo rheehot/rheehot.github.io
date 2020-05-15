@@ -40,9 +40,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  글로벌 기반 이커머스 사이트 전략기획, 디자인, 개발, 운영을 경험한 이커머스 전문가
-  [나의 블로그]
-  Flutter로 개발한 App 을 AppStore 에 등록하기 https://brunch.co.kr/@jowlee/121
+  - 글로벌 기반 이커머스 사이트 전략기획, 디자인, 개발, 운영을 경험한 이커머스 전문가
+  - [나의 블로그]
+    - Flutter로 개발한 App 을 AppStore 에 등록하기 https://brunch.co.kr/@jowlee/121
 
 
 # Projects Section
