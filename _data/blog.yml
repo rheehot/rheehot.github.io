@@ -1,0 +1,10 @@
+# Blog Template
+- layout: left
+  name: blog name
+  dates: 2020-05-18
+  qualification: blog title
+  quote: >
+    blog quote
+  description: | # this will include new lines to allow paragraphs
+    blog description
+
