@@ -31,6 +31,10 @@
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
+      
+      {%- if site.blog -%}
+        {%- include blog.html -%}
+      {%- endif -%}
 
     </div>
   </main>

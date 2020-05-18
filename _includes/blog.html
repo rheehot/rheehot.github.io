@@ -1,0 +1,6 @@
+<div class="container blog-container">
+  <h3>{{ site.blog_title | default: "Blog" }}</h3>
+  {% for blog in site.data.blog %}
+    {% include {{ blog.layout | default: 'left' | append: ".html" }} item=blog %}
+  {% endfor %}
+</div>
