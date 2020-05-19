@@ -1,8 +1,9 @@
 # Blog Template
 - layout: left
-  name: [번역] 당신이 데이터전문가가 될 수 없는 9가지 이유
+  name: 당신이 데이터전문가가 될 수 없는 9가지 이유
   dates: 2020-05-18
-    quote: >
+  qualification: 당신이 데이터전문가가 될 수 없는 9가지 이유
+  quote: >
     https://brunch.co.kr/@jowlee/119
   description: | # this will include new lines to allow paragraphs
     https://towardsdatascience.com/9-reasons-why-youll-never-become-a-data-scientist-c8c5b75503cf
