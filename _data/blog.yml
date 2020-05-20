@@ -1,10 +1,10 @@
 # Blog Template
 - layout: left
-  name: 1.데이터전문가가 되려면
+  name: 데이터전문가가 되려면
   dates: 2020-05-18
-  qualification: 당신이 데이터전문가가 될 수 없는 9가지 이유
+  qualification: 
   quote: >
-    https://brunch.co.kr/@jowlee/119
+    당신이 데이터전문가가 될 수 없는 9가지 이유 
   description: | # this will include new lines to allow paragraphs
-    https://towardsdatascience.com/9-reasons-why-youll-never-become-a-data-scientist-c8c5b75503cf
+    https://brunch.co.kr/@jowlee/119
 
