@@ -59,8 +59,6 @@ more_content: | # this will include new lines to allow paragraphs
 # Blog Section
 # blog_title: My Blog #(Use this to override about more section title)
 blog_content: | # this will include new lines to allow paragraphs
-  blog test
-
 
 # Footer
 footer_show_references: true
