@@ -6,6 +6,7 @@
   quote: > 
      https://brunch.co.kr/@jowlee/119
   description: | # this will include new lines to allow paragraphs
+# Blog Template  
 - layout: left
   name: 개발자의 좋은 6가지 프로그래밍 습관
   dates: 2020-05-18
