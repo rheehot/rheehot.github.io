@@ -1,12 +1,12 @@
 # Experience template
 
 - layout: left
-  company: Paymint (Kakao pay included)
+  company: Paymint (a kakaopay company)
   link: paymint.co.kr
-  job_title: Technical Director
+  job_title: CTO
   dates: Nov 2024 - Current
-  quote: >
-    페이민트 CTO
+  quote: > 
+     개발 총괄
   description: | # this will include new lines to allow paragraphs
     - 결제선생 서비스 개발 운영 총괄
     - Speeid, iAuth, Linq 서비스 개발 운영 총괄 
@@ -17,7 +17,7 @@
   job_title: Technical Director
   dates: Jan 2024 - Oct 2024
   quote: >
-    DataOn 개발팀 팀장
+     개발팀 팀장
   description: | # this will include new lines to allow paragraphs
    - 외식업 BI 시스템, 탭오더 시스템 개발, 운영 총괄
    - 회계,인사,발주,수주,영업 등의 시스템 개발, 운영 총괄
@@ -28,7 +28,7 @@
   job_title: CTO 
   dates: June 2018 -  Dec 2023
   quote: >
-   Uvaper 개발 총괄 
+   개발 총괄 
    Uavaper Korea 서울 지점 지점장
   description: | # this will include new lines to allow paragraphs
    - Uvaper 이커머스 사이트 전략기획, 개발, 운영 총괄

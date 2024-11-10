@@ -1,7 +1,7 @@
 # Blog Template
 - layout: left
-  name: 데이터전문가가 되려면
-  dates: 2020-05-18
+  name: "데이터전문가가 되려면"
+  dates: "2020-05-18"
   qualification: [번역] 당신이 데이터전문가가 될 수 없는 9가지 이유 
   quote: > 
     https://brunch.co.kr/@jowlee/119
@@ -9,8 +9,8 @@
 
 # Blog Template  
 - layout: left
-  name: 개발자의 좋은 6가지 프로그래밍 습관
-  dates: 2020-05-18
+  name: "개발자의 좋은 6가지 프로그래밍 습관"
+  dates: "2020-05-18"
   qualification: [번역] 놀랍게도 많은 개발자가 가지지 않은 6가지 프로그래밍 습관들
   quote: > 
     https://brunch.co.kr/@jowlee/122
